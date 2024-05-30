@@ -1,0 +1,13 @@
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\bin\Debug\proyecto gimnasio.exe.config
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\bin\Debug\proyecto gimnasio.exe
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\bin\Debug\proyecto gimnasio.pdb
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto gimnasio.csproj.AssemblyReference.cache
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto_gimnasio.Form1.resources
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto_gimnasio.Form3.resources
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto_gimnasio.Perfil.resources
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto_gimnasio.Properties.Resources.resources
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto_gimnasio.Rutina.resources
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto gimnasio.csproj.GenerateResource.cache
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto gimnasio.csproj.CoreCompileInputs.cache
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto gimnasio.exe
+C:\Users\Bryham\Source\Repos\proyecto-gimnasio\proyecto gimnasio\obj\Debug\proyecto gimnasio.pdb
